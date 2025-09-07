@@ -31,7 +31,7 @@ Supports authentication, messaging, and real-time online user tracking.
 
 ## 🔗 Live Demo
 
-Backend live: [Chat App Backend](https://chat-app-backend-iocn.onrender.com)
+Backend live: [Chat App Backend](https://chat-app-backend-iocn.onrender.com/api/status)
 
 ---
 
